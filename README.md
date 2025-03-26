@@ -3,7 +3,7 @@
 𝗜'𝗺 [Aeserenity](https://github.com/aeserenity)！𝗜'𝗺 𝗮 computer science student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 designing.
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aeserenity&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
